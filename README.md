@@ -1,5 +1,5 @@
 # Messenger-Image-Bulk-Downloader
-Not only images! Download videos, gifs and attached files simply reacting on messages or sending them to own conversation.
+Not only images! Download GIFs and videos simply reacting on messages or sending them to own conversation.
 
 # Installation
 1. Install Python3 on your machine.

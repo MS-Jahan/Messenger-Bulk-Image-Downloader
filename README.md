@@ -9,7 +9,7 @@ Not only images! Download GIFs and videos simply reacting on messages or sending
 <code>pip3 install fbchat json wget --user</code>
 3. Clone this repository.
 Linux users can use this command: <code>git clone https://github.com/MS-Jahan/Messenger-Bulk-Image-Downloader</code>
-Windows users have to download the zip file extract it.
+<br/>Windows users have to download the zip file extract it.
 
 # Usage
 1. Change directory to project folder: <code>cd 'Messenger-Bulk-Image-Downloader'</code>

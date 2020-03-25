@@ -1,4 +1,4 @@
-# Messenger-Bulk-Image-Downloader
+# Messenger-Image-Bulk-Downloader
 Not only images! Download videos, gifs and attached files simply reacting on messages or sending them to own conversation.
 
 # Installation

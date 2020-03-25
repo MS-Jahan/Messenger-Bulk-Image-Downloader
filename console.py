@@ -45,8 +45,8 @@ print(os.path.basename(__file__))
 ua_file_path = dir_path + "/ua.txt"
 
 print("##################################\nMessenger Image Bulk Downloader\n##################################\n")
-print("Not only images, you can download files from Messenger by reacting to messages, forwarding to your own conversation or just simply save all whoever sends you something.")
-print("Images, GIFs, Videos and other attachments will be saved at " + path + " directory in Desktop.\n")
+print("Not only images, you can also download GIFs and Videos from Messenger by reacting to messages, forwarding to your own conversation or just simply save all whoever sends you something.")
+print("Images, GIFs and Videos will be saved at " + path + " directory in Desktop.\n")
 option = int(input("Select an option:\n1) Save all images in one folder.\n2) Save images conversation name-wise.\n3) Save images conversation name-wise and time-wise.\n\nYour Choice: "))
 
 
